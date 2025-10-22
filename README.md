@@ -24,3 +24,7 @@ Try it live here: [https://lilithamhle.github.io/BmiCalculator/](https://lilitha
 ```bash
 git clone https://github.com/LilithaMhle/BmiCalculator.git
 
+## ⚡ Technologies Used
+- HTML
+- CSS (Glassmorphic design)
+- JavaScript
